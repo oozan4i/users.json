@@ -15,6 +15,18 @@
             "username": "tynzy",
             "password": "1",
             "role": "user"
+        }, 
+        
+        {
+            "username": "dika",
+            "password": "1",
+            "role": "user"
+        }, 
+        
+        {
+            "username": "rayhan",
+            "password": "1",
+            "role": "user"
         }
     ]
 }
