@@ -27,6 +27,12 @@
             "username": "rayhan",
             "password": "1",
             "role": "user"
+        }, 
+        
+        {
+            "username": "lil",
+            "password": "1",
+            "role": "user"
         }
     ]
 }
