@@ -10,6 +10,12 @@
             "password": "adminpass",
             "role": "admin"
         }, 
+
+        {
+            "username": "adm",
+            "password": "addm",
+            "role": "admin"
+        }, 
         
         {
             "username": "tynzy",
